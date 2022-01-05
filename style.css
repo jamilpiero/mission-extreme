@@ -6,15 +6,17 @@ body{
     
 }
 h1{
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 350px;
+    margin: 2%;
 }
 .orange{
     color: rgb(233, 176, 70);
 }
 #size{
     font-size: 20px;
-    font-weight: 700px;
+    font-weight: 2000px;
+    margin: 0%
 }
 .half-width{
     display: flex;
@@ -26,4 +28,11 @@ h1{
 }
 div img{
     width:70%;
+}
+.anchor{
+    color: snow;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 8px 40px;
+    border-radius: 7px;
 }
