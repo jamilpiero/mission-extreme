@@ -12,3 +12,18 @@ h1{
 .orange{
     color: rgb(233, 176, 70);
 }
+#size{
+    font-size: 20px;
+    font-weight: 700px;
+}
+.half-width{
+    display: flex;
+}
+.container-of-text{
+    width:100%;
+    padding-left: 30px;
+    padding-bottom: 8px;
+}
+div img{
+    width:70%;
+}
