@@ -27,7 +27,7 @@ h1{
     padding-bottom: 8px;
 }
 div img{
-    width:70%;
+    width:60%;
 }
 .anchor{
     color: snow;
@@ -35,4 +35,36 @@ div img{
     background-color: tomato;
     padding: 8px 40px;
     border-radius: 7px;
+}
+.image-container{
+    width: 100px;
+}
+.text-container{
+    width:300px;
+}
+.card{
+    height: 350px;
+    width: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom:10%;
+    padding-left: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    background-image: url(images/shapes/shape-7.png);
+    background-repeat:no-repeat;
+    
+}
+.cards{
+    padding-bottom: 200px;
+}
+.span-card{
+    text-align:center;
+    font-size: 55px;
+}
+.blue{
+    color: rgb(4, 38, 138);
+}
+.gold{
+    color: rgb(233, 176, 70);
 }
