@@ -1,3 +1,14 @@
 body{
     font-family: font-family: 'Merriweather', serif;;
 }
+.first-header-border{
+    border-left: 5px solid rgb(255, 115, 91);
+    
+}
+h1{
+    font-size: 60px;
+    font-weight: 350px;
+}
+.orange{
+    color: rgb(233, 176, 70);
+}
