@@ -37,13 +37,16 @@ div img{
     border-radius: 7px;
 }
 .image-container{
-    width: 100px;
+    width: 300px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
 }
 .text-container{
     width:300px;
 }
 .card{
-    height: 350px;
+    height: 380px;
     width: 25%;
     margin-left: 10%;
     margin-right: 10%;
@@ -52,7 +55,7 @@ div img{
     border-radius: 20px;
     box-shadow: 10px 10px 40px gray;
     background-image: url(images/shapes/shape-7.png);
-    background-repeat:no-repeat;
+    background-color: rgb(202, 215, 255);
     
 }
 .cards{
@@ -63,8 +66,31 @@ div img{
     font-size: 55px;
 }
 .blue{
-    color: rgb(4, 38, 138);
+    color: rgb(2, 35, 133);
 }
 .gold{
     color: rgb(233, 176, 70);
+}
+.text-container{
+    background-color: rgb(202, 215, 255);
+}
+.image-container-1{
+width: 300px;
+margin: auto;
+display: flex;
+justify-content: center;
+}
+.text-container-1{
+    width: 300px;
+}
+.card-1{
+    height: 380px;
+    width: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom:10%;
+    padding-left: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    background-color: rgb(251, 177, 214);
 }
