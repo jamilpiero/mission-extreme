@@ -45,6 +45,10 @@ div img{
 .text-container{
     width:300px;
 }
+.text-container p{
+    text-align: center;
+    margin: auto;
+}
 .card{
     height: 380px;
     width: 25%;
@@ -55,11 +59,14 @@ div img{
     border-radius: 20px;
     box-shadow: 10px 10px 40px gray;
     background-image: url(images/shapes/shape-7.png);
-    background-color: rgb(202, 215, 255);
+    background-color: rgb(233, 239, 255);
+    text-align:left;
+    padding-left: 2px;
     
 }
-.cards{
-    padding-bottom: 200px;
+.cards-ka-beta{
+    display: flex;
+    
 }
 .span-card{
     text-align:center;
@@ -72,7 +79,7 @@ div img{
     color: rgb(233, 176, 70);
 }
 .text-container{
-    background-color: rgb(202, 215, 255);
+    background-color: rgb(234, 239, 251);
 }
 .image-container-1{
 width: 300px;
@@ -80,7 +87,7 @@ margin: auto;
 display: flex;
 justify-content: center;
 }
-.text-container-1{
+.text-container-1 p{
     width: 300px;
 }
 .card-1{
@@ -92,5 +99,35 @@ justify-content: center;
     padding-left: 10px;
     border-radius: 20px;
     box-shadow: 10px 10px 40px gray;
-    background-color: rgb(251, 177, 214);
+    background-color: rgb(255, 217, 236);
+    text-align: left;
+    padding-left: 2px;
+}
+.text-container-1 p{
+    margin: auto;
+    text-align:center;
+}
+.card-2{
+    height: 380px;
+    width: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom:10%;
+    padding-left: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    background-color:rgb(255, 255, 192)
+}
+.text-container-2{
+    width: 300px;
+}
+.text-container-2 p{
+    margin: auto;
+    text-align: center;
+}
+.image-container-2{
+    width: 300px;
+margin: auto;
+display: flex;
+justify-content: center;
 }
