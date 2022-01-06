@@ -161,3 +161,21 @@ width: 100%;
 .global-sec p{
     padding-left: 10px;
 }
+.try-for-bonus{
+    border-radius: 20px;
+    width: 450px;
+    box-shadow: 10px 10px 40px gray;
+    background-image: url(images/shapes/shape-2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#bonus{
+  color: rgb(255, 157, 124);
+}
+.last-header{
+    text-align: center;
+}
+.last-action{
+    display: flex;
+    width: 100%;
+}
