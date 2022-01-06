@@ -155,7 +155,7 @@ width: 100%;
 }
 .global-net{
   width:140%;
-  padding-left:50px;
+  padding-left:110px;
 }
 .global-sec h1{
     color: rgb(37, 35, 35);
@@ -209,4 +209,7 @@ width: 100%;
 }
 .cards{
     margin-top: 50px;
+}
+.paragraph{
+    padding-left: 10px;
 }
