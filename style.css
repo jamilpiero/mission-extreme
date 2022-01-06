@@ -137,13 +137,12 @@ text-align: center;
     margin: 0 10px 10px 10px;
 }
 .coding{
-    margin:auto;
     display: flex;
-    width: 80%;
-   padding-left: 2%;
+    width: 95%;
 }
 .coding{
     background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
     background-position:right;
+    float:right;
 }
