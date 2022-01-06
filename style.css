@@ -33,7 +33,7 @@ div img{
     color: snow;
     text-decoration: none;
     background-color: tomato;
-    padding: 8px 40px;
+    padding: 10px 50px;
     border-radius: 7px;
 }
 .image-container{
@@ -57,7 +57,7 @@ div img{
     border-radius: 20px;
     box-shadow: 10px 10px 40px gray;
     background-image: url(images/shapes/shape-7.png);
-    background-color: rgb(233, 239, 255);
+    background-color: rgb(182, 200, 250);
     text-align:left;
     padding-left: 2px;
     
@@ -77,7 +77,7 @@ div img{
     color: rgb(233, 176, 70);
 }
 .text-container{
-    background-color: rgb(234, 239, 251);
+    background-color: rgb(182, 203, 251);
 }
 .image-container-1{
 width: 300px;
@@ -124,4 +124,26 @@ justify-content: center;
 margin: auto;
 display: flex;
 justify-content: center;
+}
+.card-head{
+font-weight:bold;
+text-align: center;
+}
+.parent{
+    width: 80%;
+}
+.coding-img{
+    width: 75%;
+    margin: 0 10px 10px 10px;
+}
+.coding{
+    margin:auto;
+    display: flex;
+    width: 80%;
+   padding-left: 2%;
+}
+.coding{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
 }
