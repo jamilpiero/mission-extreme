@@ -146,3 +146,18 @@ text-align: center;
     background-position:right;
     float:right;
 }
+.global-sec{
+display: flex;
+width: 100%;
+}
+.global-net{
+  width:140%;
+  padding-left:50px;
+}
+.global-sec h1{
+    color: rgb(37, 35, 35);
+    padding-left: 2px;
+}
+.global-sec p{
+    padding-left: 10px;
+}
